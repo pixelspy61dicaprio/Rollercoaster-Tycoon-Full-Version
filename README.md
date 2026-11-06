@@ -247,4 +247,4 @@ This repository serves as the official landing page for **RollerCoaster Tycoon**
 **Get the most recent version of RollerCoaster Tycoon today!**
 
 ---
-**Last updated:** 2026-11-06 08:38:43 UTC
+**Last updated:** 2026-11-06 16:24:01 UTC
